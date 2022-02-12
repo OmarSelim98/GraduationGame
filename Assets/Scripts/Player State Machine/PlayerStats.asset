@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bec83b4e627fee74fafe0104ed9c7d1a, type: 3}
+  m_Name: PlayerStats
+  m_EditorClassIdentifier: 
+  weapons:
+  - {fileID: 11400000, guid: 0b28f7da84d7e8c43b56029fe043b371, type: 2}
+  currentWeapon: {fileID: 11400000, guid: 0b28f7da84d7e8c43b56029fe043b371, type: 2}
+  initialJumpSpeed: 6.633333
+  distanceToGround: 0.03
+  maxJumpTime: 1.2
+  maxJumpHeight: 1.99
+  rotationFactor: 0.332
+  fallMultiplier: 2.05
+  dashTime: 0.25
+  dashDistance: 1
+  dashSpeed: 4

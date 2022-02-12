@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0dccb9e17873ee4d85e0143ed330a5e, type: 3}
+  m_Name: Audio Manager Stats
+  m_EditorClassIdentifier: 
+  canPerformAction: 0
+  songBpm: 80
+  secPerBeat: 0.75
+  songPosition: 16.895996
+  songPositionInBeats: 22.527994
+  dspSongTime: 1608.7467
+  beatsPerLoop: 4
+  completedLoops: 5
+  loopPositionInBeats: 2.5279942
+  loopPositionInAnalog: 0.63199854
+  errorMarginInBeats: 0.1
